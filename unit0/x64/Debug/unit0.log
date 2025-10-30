@@ -1,0 +1,5 @@
+﻿  unit0.cpp
+C:\Users\Admin\source\repos\lab5_1\unit0\unit0.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/unit0.cpp')
+  
+  unit0.vcxproj -> C:\Users\Admin\source\repos\lab5_1\x64\Debug\unit0.dll
